@@ -62,5 +62,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>TaskTwo will use photo library to send images to server</string>
+	<key>NSCameraUsageDescription</key>
+	<string>TaskTwo will use your camera to take picture.</string>
 </dict>
 </plist>
